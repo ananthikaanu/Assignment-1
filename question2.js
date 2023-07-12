@@ -1,4 +1,4 @@
-var yearofBirth = 1999;
-var currentYear = 2023;
-var age = currentYear - yearofBirth;
+let yearofBirth = 1999;
+let currentYear = 2023;
+let age = currentYear - yearofBirth;
 console.log(age)
